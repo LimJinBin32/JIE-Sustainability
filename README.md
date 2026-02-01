@@ -76,7 +76,7 @@ Loaded and processed 6 core tables for analysis:
 
 - **Dashboard 1:** CO₂ vs GDP trend exploration and correlation over time
   ![CO₂ vs GDP trend](Images/CO2_GDP_Trend[Edric].png)
-- **Dashboard 2:** Singapore per-capita emissions vs developed Asian economies + global average; includes ranking and slicers
+- **Dashboard 2:** Singapore per-capita emissions vs developed Asian economies + global average
   ![Per-Capita emissions](Images/PerCapita_Emissions_Comparison[JinBin].png)
 - **Dashboard 3:** Singapore emissions by sector (2022) + top contributors
   ![SG emissions by sector](Images/SG_Emission_Sector[Issac].png)
